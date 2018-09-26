@@ -1,2 +1,2 @@
-# pipline
+# pipeline
 Jenkins Github webhook
